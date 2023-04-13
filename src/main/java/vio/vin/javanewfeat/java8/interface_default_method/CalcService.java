@@ -1,4 +1,4 @@
-package vio.vin.javanewfeat.java8.interfacedefault;
+package vio.vin.javanewfeat.java8.interface_default_method;
 
 public interface CalcService {
     void defaultInterfaceMethod(int i);

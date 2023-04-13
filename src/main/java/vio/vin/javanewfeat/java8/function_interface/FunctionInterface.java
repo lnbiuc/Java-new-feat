@@ -1,3 +1,6 @@
 package vio.vin.javanewfeat.java8.function_interface;
-public class FunctionInterface {
+
+@FunctionalInterface
+public interface FunctionInterface {
+    int increase(int i);
 }
